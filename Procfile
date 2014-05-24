@@ -1,1 +1,1 @@
-﻿web: node warcaby_srv.js
+web: node warcaby_srv.js
