@@ -1,5 +1,5 @@
 {
-  "name": "Warcaby",
+  "name": "warcaby-server",
   "version": "0.0.0",
   "main": "warcaby_srv.js",
   "scripts": {
